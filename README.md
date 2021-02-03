@@ -1,4 +1,4 @@
-### Currently coding things
+### There is a high chance I'm currently coding or breaking stuff
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ToufikAmmoura&show_icons=true&theme=radical) -->
 
 <!--
