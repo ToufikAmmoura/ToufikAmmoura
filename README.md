@@ -1,4 +1,4 @@
-### There is a high chance I'm currently coding or breaking stuff
+### High chance I'm coding or breaking stuff at the moment
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ToufikAmmoura&show_icons=true&theme=radical) -->
 
 <!--
